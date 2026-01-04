@@ -10,7 +10,7 @@
 
 "DURATION:" 4 WEEKS "
 
-MENTOR:" NEELA SANTHOSH KUMAR
+MENTOR:" NEELA SANTHOSH KUMAR "
 
 The Basic Portfolio Website project is a static web application designed to showcase a developer’s skills, projects, and professional information in a clean and organized manner. The main objective of this project is to create a personal online presence for a developer using core web technologies such as HTML and CSS. This portfolio website acts as a digital resume, allowing potential employers, clients, or collaborators to easily understand the developer’s background and work.
 
