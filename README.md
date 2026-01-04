@@ -28,3 +28,4 @@ In conclusion, the Basic Portfolio Website project demonstrates a strong underst
 
 #OUTPUT
 
+<img width="1891" height="900" alt="Image" src="https://github.com/user-attachments/assets/4c3c106b-0461-462f-8d72-66e00f5bc05d" />
